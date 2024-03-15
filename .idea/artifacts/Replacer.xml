@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Replacer">
+    <output-path>$PROJECT_DIR$/out/artifacts/Replacer</output-path>
+    <root id="archive" name="Replacer.jar">
+      <element id="module-output" name="Replacer" />
+    </root>
+  </artifact>
+</component>
